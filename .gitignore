@@ -1,0 +1,5 @@
+**/.idea/
+**/out/
+**/target/
+/ParseCSV/BankParser.iml
+/ParseHTML/ParseHTML.iml
